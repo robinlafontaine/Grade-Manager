@@ -1,5 +1,5 @@
 # Grade-Manager
-This was an assignment with a 2 day period to complete
+This was a school assignment with a 2 day period to complete
 ### A simple MVC2 servlet application where you can :
 - Authenticate user session
 - Add students
